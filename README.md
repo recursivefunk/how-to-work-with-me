@@ -1,19 +1,18 @@
 # How to work with me
 
-<aside>
+
 ✅ **What this document is**
 
 - A snapshot of who I am, my quirks, and what it’s like to work with me at **this** point in time
 - Hopefully, a way for you and I to improve how we work together
-</aside>
 
-<aside>
+
 ❌ **What this document _is not_**
 
 - A permanent document of who I am (I will try and update this over time)
 - A "hack" for genuine relationship-building or 1x1s with me
 - An excuse for any unpleasant interactions you may have with me
-</aside>
+
 
 ### On-brand Johnny stuff 👨🏾‍🦲
 
@@ -54,10 +53,8 @@ Just win 🤙🏾
 
 ### How I Learn
 
-<aside>
-💡 TL;DR Big picture first. *Maybe* details later
+💡 **TL;DR Big picture first. *Maybe* details later**
 
-</aside>
 
 I'm a top-down learner. I need big picture context before drilling into details. Because of this, I can sometimes be somewhat dismissive of details if it's not relevant to the big picture. It's not because details aren't important, it's because I trust my team and so I tend to have a background mental process of "my team will solve this detailed problem - I don't need to spend cycles on it."
 
@@ -94,9 +91,7 @@ I prefer a "good enough for the foreseeable future" approach to iteration. Desig
 
 ### Hours
 
-<aside>
-💡 Time is an illusion
-</aside>
+💡 **Time is an illusion**
 
 I'm generally awake starting at 5:30 AM EST, although I may be hard to reach. I do kid prep/drop-off in the mornings and might do a light workout. I'm almost always in the saddle by 9 AM EST at the latest. I work through lunch (OMAD baby) and typically drop off-line around 6 PM EST for dinner, family, and chill time. Sometimes I get online after 9 PM to do admin tasks. I may pop online early in the mornings on Saturdays and Sundays to respond to relevant tech alarms or to do other tasks. It's a good time for me because I'm the first one up, and I get a lot done before my kids are up. I'm also most focused first thing in the morning so I like to use that time for heads down tasks. Other than that, I'll mostly be off on Saturdays. I might sneak in some work on a Sunday evening if I have a lot on my plate.
 
