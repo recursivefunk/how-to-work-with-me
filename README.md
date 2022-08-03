@@ -44,7 +44,7 @@ Quite simply put, I expect your best. If I asked you to be on the team, it means
     
 **I expect senior ICs and managers to create the reality they want to see**. Tell me what you plan to do, instead of waiting for me to shape reality for you. If you're stuck, tell me and I'll help. You're the driver. Again, you have my trust. If you don’t know where you’re driving, that’s my fault. Let me know, and I’ll get you pointed in the right direction.
     
-Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it, is unacceptable. Give real status updates. People that only tell me what they think I want to hear is a pet peeve.
+Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it is unacceptable. Give accurate status updates. People that only tell me what they think I want to hear are a pet peeve.
     
 I expect debate to be respectful and grounded in data and not personal preferences. **Once a decision is made, I expect full commitment from everyone**, regardless of whether or not you agreed with the decision.
     
