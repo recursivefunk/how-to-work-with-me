@@ -32,10 +32,10 @@ It can be tempting to assume that adding more engineers will always make the mac
     
 **My team**
     
-Quite simply put, I expect your best. If I asked you to be on the team, it means I believe in you and your ability to be excellent and I trust you. We have a strong mission and an opportunity to not only help people, but build a great business. There's a reason we're among the first people to build a platform like this - it's not easy. I need you to:
+Quite simply put, I expect your best. If I asked you to be on the team, it means I believe in you and your ability to be excellent and I trust you. We have a strong mission and an opportunity to build a great business. I need you to:
     
 - Keep an eye on the big picture
-- Hold each other accountable
+- Hold each other (and me) accountable
 - Always be learning
 - Be generous with your knowledge
 - Give feedback, frequently and respectfully. Receive it, gracefully
@@ -44,7 +44,7 @@ Quite simply put, I expect your best. If I asked you to be on the team, it means
     
 **I expect senior ICs and managers to create the reality they want to see**. Tell me what you plan to do, instead of waiting for me to shape reality for you. If you're stuck, tell me and I'll help. You're the driver. Again, you have my trust. If you don’t know where you’re driving, that’s my fault. Let me know, and I’ll get you pointed in the right direction.
     
-Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it is unacceptable. Give accurate status updates. People that only tell me what they think I want to hear are a pet peeve.
+Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it is unacceptable. Give accurate status updates. People that only tell me what they think I want to hear are a pet peeve and I don't work well with them.
     
 I expect debate to be respectful and grounded in data and not personal preferences. **Once a decision is made, I expect full commitment from everyone**, regardless of whether or not you agreed with the decision.
     
@@ -88,11 +88,3 @@ I prefer a "good enough for the foreseeable future" approach to iteration. Desig
 - I do something that feels more like telling you how to do your job than setting context, you'd be doing me a huge favor if you let me know about it as soon as possible.
 - You’re lost in the minutia and need a big picture refresher. You should always be able to draw a line from your day-to-day tasks to the company’s goals. If you can’t draw that line, throw a flag and let’s talk about it.
 - I'm not responsive enough to your needs - particularly if it impedes your ability to do your job.
-
-### Hours
-
-💡 **Time is an illusion**
-
-I'm generally awake starting at 5:30 AM EST, although I may be hard to reach. I do kid prep/drop-off in the mornings and might do a light workout. I'm almost always in the saddle by 9 AM EST at the latest. I work through lunch (OMAD baby) and typically drop off-line around 6 PM EST for dinner, family, and chill time. Sometimes I get online after 9 PM to do admin tasks. I may pop online early in the mornings on Saturdays and Sundays to respond to relevant tech alarms or to do other tasks. It's a good time for me because I'm the first one up, and I get a lot done before my kids are up. I'm also most focused first thing in the morning so I like to use that time for heads down tasks. Other than that, I'll mostly be off on Saturdays. I might sneak in some work on a Sunday evening if I have a lot on my plate.
-
-I don't expect my team to emulate my hours; I expect them to do what works for them and their families in helping us reach our goals. Sometimes that means we have to work a little late or put in time on the weekends. But if we work together to build resilient systems and processes to deal with inevitable failures, we can keep that to a minimum.
