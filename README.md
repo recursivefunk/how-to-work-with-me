@@ -47,9 +47,10 @@ Quite simply put, I expect your best. If I asked you to be on the team, it means
 Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it is unacceptable. Give accurate status updates. People that only tell me what they think I want to hear are a pet peeve and I don't work well with them.
     
 I expect debate to be respectful and grounded in data and not personal preferences. **Once a decision is made, I expect full commitment from everyone**, regardless of whether or not you agreed with the decision.
-    
+
+Your career is your journey - you're the driver and the navigator. I'm your navigation software - tell me where you want to go, and I'll help you get there. I won't be helpful if you tell me where you want to go and don't drive. If you drive and do not tell me where you want to go, you'll end up somewhere, but I can't predict where.
+
 Just win 🤙🏾
-    
 
 ### How I Learn
 
@@ -74,6 +75,12 @@ The thing I struggle most with is being split brain between engineering details 
 I tend to assume that my preferences for working, strengths and weaknesses apply to others. For example: As a junior and mid level engineer, I was put on projects by myself quite often and was not expected to give many updates along the way. As a result, I have a weird comfort zone of working alone and with no feedback on fairly sizable projects. I'm very comfortable there, others may not be. I sometimes need to be reminded of this.
 
 Also, I'm not a great on-the-spot brain stormer. I like to take a problem and think deeply about it for a while. Once I've had an opportunity to do that, I'm happy to brain storm after the fact. Many people feed off the energy of an ad-hoc brain storm, so I need to work extra hard to make space for that.
+
+### My Boundaries
+
+**I Can't Make You Happy**
+
+I'm a pretty good manager but a shitty therapist. I can't help you find happiness or fulfillment. I can set context, tell you what success looks like, ensure your work has impact, give you feedback and reward you, but whether or not that makes you happy is something I'm not qualified to address directly. Similarly, telling me about your work-related problems for brainstorming solutions is great, but venting is not. If all of my reports vented to me, I'd be a dumping ground for negative emotions. This, in turn, impedes my ability to be energetic and do my job effectively.
 
 ### Thoughts on tech and builds
 
