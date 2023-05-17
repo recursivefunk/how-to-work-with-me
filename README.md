@@ -42,7 +42,7 @@ Quite simply put, I expect your best. If I asked you to be on the team, it means
 - Work smart when you can, work hard when you need to
 - Take care of yourself
     
-**I expect senior ICs and managers to create the reality they want to see**. Tell me what you plan to do, instead of waiting for me to shape reality for you. If you're stuck, tell me and I'll help. You're the driver. Again, you have my trust. If you don’t know where you’re driving, that’s my fault. Let me know, and I’ll get you pointed in the right direction.
+**I expect senior ICs and managers to create the reality they want to see**. Tell me what you plan to do, instead of waiting for me to shape reality for you. If you're stuck, tell me and I'll help. You're the driver. Again, you have my trust. If you don’t see the big picture, that’s my fault. Let me know, and I’ll get you oriented.
     
 Not hitting a deadline is not the end of the world. Not hitting a deadline and not letting me know until it's too late to do anything about it is unacceptable. Give accurate status updates. People who only tell me what they think I want to hear are pet peeves.
     
