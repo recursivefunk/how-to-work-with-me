@@ -23,8 +23,10 @@ I write a lot. It helps me think, focus and drive clarity. I encourage you to wr
 **My peers and stakeholders**
     
 I expect my peers to have an appreciation for the level of complexity and uncertainty inherent to the software development process. I realize it can be frustrating to not fully understand the details of why building a thing takes a while. Still, I have an extraordinarily talented team that cares deeply about the problems we're trying to solve. If it's taking a while, it's because we're trying to deliver the best solution possible (under the given constraints of time, resources, and people). We can ~always~ sometimes go faster, but it's never without cost. See the image below. In this instance, "good" can be summarized as the quality of software relative to bugs and other defects and/or performance of said system when performance is an important factor.
-    
-![assets/fast-cheap-good.png](assets/fast-cheap-good.png)
+
+<p align="center">
+  <img src="./assets/fast-cheap-good.png" alt="fast-cheap-good" />
+</p>
     
 **Understanding diminishing returns**
     
